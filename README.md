@@ -5,13 +5,6 @@ The Working from the Home Environment & Well-Being Study is a 6-month research p
 
 Our team analyzed the data generated through the ecological momentary assessment approach, which allowed us to collect real-time information on participants' experiences. Participants were provided with a Garmin watch that prompted them to share information about their current location, musculoskeletal discomfort, and number of breaks taken throughout the day. We also conducted weekly assessments using the E-Work and Flourishing scale surveys and a monthly computer workstation survey to assess ergonomic factors.
 
-### 2. Meet the team
-Team 2 -
-* Navya Jain
-* Jeya Varshini Bharath
-* Shang Lyu
-* Dhun Jayswal
-
 ### 3. Data Used
 The following data were analyzed for the scope of this project:
 * Garmin data: These were in the form of 64 CSV files containing the data collected by the Garmin watches given to the participants. Each CSV file corresponded to one participant’s data.
